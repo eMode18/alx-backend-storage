@@ -1,0 +1,3 @@
+// command to create/use database my_db
+use my_db
+

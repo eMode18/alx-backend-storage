@@ -1,0 +1,3 @@
+// my command to show all databases in mongoDb
+show dbs
+
